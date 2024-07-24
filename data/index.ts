@@ -81,7 +81,7 @@
       title: "My Portfolio Website 2024",
       des: "Built with Next.js for seamless UI handling, Framer Motion for stunning animations, and styled with TailwindCSS, this portfolio showcases my skills in a distinctive and engaging way.",
       img: "/portfolioImg.png",
-      link: "https://github.com/adrianhajdin/iphone",
+      link: "https://jutikapatil-portfolio.vercel.app/",
     },
     {
       id: 5,
