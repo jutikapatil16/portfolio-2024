@@ -64,7 +64,7 @@
       id: 2,
       title: "GeekGlobe - Full Stack blogging App",
       des: "A MERN Tech-Blog using Next.js, Prisma with Tailwind in the frontend. Integrated OAuth for secure authentication and incorporated Cloudinary for media storage.",
-      img: "/GeekGlobe.png",
+      img: "/geekglobe.png",
       iconLists: [""],
       link: "https://github.com/jutikapatil16/GeekGlobe",
     },
