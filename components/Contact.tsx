@@ -1,5 +1,5 @@
 "use client";
-import { FaGit, FaInstagram, FaLinkedin, FaLocationArrow, FaPhone, FaPlane } from "react-icons/fa6";
+import {  FaInstagram, FaLinkedin, FaLocationArrow} from "react-icons/fa6";
 import { TypewriterEffectSmooth } from "./ui/Typewriter"
 import { HoverBorderGradient } from "./ui/HoverBorder";
 import { FaGithub } from "react-icons/fa";
@@ -35,7 +35,7 @@ export function Contact() {
         as="button"
         className="dark:bg-black bg-white text-black dark:text-white flex items-center space-x-2 gap-2 "
       >
-        <a href="mailto:jutika2023@gmail.com"> Let's get in touch </a><FaLocationArrow/>
+        <a href="mailto:jutika2023@gmail.com"> Let&apos;s get in touch </a><FaLocationArrow/>
       </HoverBorderGradient>
 
       </div>
