@@ -148,8 +148,8 @@
     { id: 15, name: "NODE", img: "/nodejs.png", category: "DEVELOPMENT" },
     { id: 16, name: "BOOTSTRAP", img: "/bootstrap_.png", category: "DEVELOPMENT" },
     { id: 17, name: "JAVASCRIPT", img: "/js.png", category: "DEVELOPMENT" },
-    { id: 18, name: "GIT", img: "/vscode.jpg", category: "DEVELOPMENT" },
-    { id: 19, name: "VSCODE", img: "/git.png", category: "DEVELOPMENT" },
+    { id: 18, name: "GIT", img: "/git.png", category: "DEVELOPMENT" },
+    { id: 19, name: "VSCODE", img: "/vscode.jpg", category: "DEVELOPMENT" },
   ];
   
   export const workExperience = [
