@@ -27,7 +27,7 @@
       
       imgClassName: "",
       titleClassName: "justify-center",
-      img: "/me.jpg",
+      img: "/mee.jpg",
       spareImg: "",
     },
     {
@@ -146,7 +146,7 @@
     { id: 13, name: "TAILWIND", img: "/tailwind.png", category: "DEVELOPMENT" },
     { id: 14, name: "PYTHON", img: "/python.png", category: "PROGRAMMING" },
     { id: 15, name: "NODE", img: "/nodejs.png", category: "DEVELOPMENT" },
-    { id: 16, name: "BOOTSTRAP", img: "/bootstrap_.png", category: "DEVELOPMENT" },
+    { id: 16, name: "BOOTSTRAP", img: "/bootstrap.png", category: "DEVELOPMENT" },
     { id: 17, name: "JAVASCRIPT", img: "/js.png", category: "DEVELOPMENT" },
     { id: 18, name: "GIT", img: "/git.png", category: "DEVELOPMENT" },
     { id: 19, name: "VSCODE", img: "/vscode.jpg", category: "DEVELOPMENT" },

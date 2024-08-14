@@ -11,9 +11,9 @@ const Experience = ()=> {
        <h1 className='font-bold text-3xl text-center p-20'> My  <span className='text-purple underline underline-offset-8'> Work Experience</span></h1>
 
        <TracingBeam className="px-6">
-      <div className="max-w-2xl mx-auto antialiased pt-4 relative">
+      <div className="max-w-2xl mx-auto antialiased p-4 relative">
         {workExperience.map((item) => (
-          <div key={item.id} className="mb-10">
+          <div key={item.id} className="mb-10 py-4">
             <h2 className="bg-indigo-900 text-white rounded-full text-sm w-fit px-4 py-1 mb-4">
               {item.place}
             </h2>

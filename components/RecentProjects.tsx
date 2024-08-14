@@ -19,10 +19,10 @@ const RecentProjects = () => {
         
 
      
-    <div key={project.id} className='overflow-hidden sm:w-96 w-[80vw] h-[20vh] lg:h-[70vh] p-4 px-4 m-2'>
+    <div key={project.id} className='overflow-hidden sm:w-96 w-[80vw] h-[70vh] lg:h-[80vh] p-4 px-4 m-2'>
    <PinContainer title={project.title} href={project.link}>
    <Link href={project.link} className='mx-2 ' >
-   <div className="flex items-center justify-center sm:w-96 w-[80vw] overflow-hidden shadow shadow-slate-400 lg:rounded-3xl  ">
+   <div className="flex items-center justify-center sm:w-96 w-[76vw] overflow-hidden shadow shadow-slate-400 lg:rounded-3xl  ">
     <div
       className="overflow-hidden px-4 "
       style={{ backgroundColor: "#13162D" }}
