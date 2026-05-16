@@ -1,5 +1,5 @@
 "use client";
-import {  FaInstagram, FaLinkedin, FaLocationArrow} from "react-icons/fa6";
+import { FaLinkedin, FaLocationArrow} from "react-icons/fa6";
 import { TypewriterEffectSmooth } from "./ui/Typewriter"
 import { HoverBorderGradient } from "./ui/HoverBorder";
 import { FaGithub } from "react-icons/fa";
@@ -44,7 +44,7 @@ export function Contact() {
 
       <div className="flex justify-between items-center w-full h-40">
       <div className="text-neutral-600 dark:text-neutral-200 text-xs sm:text-base mt-40 w-full px-6">
-        Copyright ©️ 2024 Jutika Patil
+        Copyright ©️ 2026 Jutika Patil
       </div>
 
       <div className="text-neutral-600 dark:text-neutral-200 text-xs sm:text-base mt-40 w-full px-6 flex justify-end">
@@ -54,12 +54,8 @@ export function Contact() {
         <Link href="https://github.com/jutikapatil16"><FaGithub className="text-black-100"/></Link>
       </div>
 
-      <div className="p-4 cursor-pointer bg-purple m-4 rounded-2xl tech-item  gap-4  text-center" >
-      <Link href="https://www.instagram.com/justjuts16/"><FaInstagram className="text-black-100" /></Link>
-     
-      </div>
 
-      <div className="p-4 cursor-pointer bg-purple m-4 rounded-2xl tech-item  gap-4  text-center" >
+<div className="p-4 cursor-pointer bg-purple m-4 rounded-2xl tech-item  gap-4  text-center" >
       <Link href="https://www.linkedin.com/in/jutikapatil16/?trk=public_profile_browsemap&originalSubdomain=in"><FaLinkedin className="text-black-100" /></Link>
       </div>
 

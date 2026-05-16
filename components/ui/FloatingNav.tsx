@@ -72,7 +72,7 @@ export const FloatingNav = ({
             <span className="hidden sm:block text-sm">{navItem.name}</span>
           </Link>
         ))}
-        <Link href={"https://docs.google.com/document/d/16TAKuxm0P6F4umY1efjHJtRp1Fdc9o1J/edit?usp=sharing&ouid=102663489506394102187&rtpof=true&sd=true"}>
+        <Link href={"https://docs.google.com/document/d/1VV8YLd78CgDO4YC_e8EMdh6t98A0aQzJL2UvE_6YQ5s/edit?usp=sharing"} target="_blank" rel="noopener noreferrer">
         <button className="border text-sm font-medium relative border-neutral-200 dark:border-white/[0.2] text-black dark:text-white px-4 py-2 rounded-full">
           <span>Resume</span>
           <span className="absolute inset-x-0 w-1/2 mx-auto -bottom-px bg-gradient-to-r from-transparent via-blue-500 to-transparent  h-px" />

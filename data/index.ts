@@ -1,30 +1,28 @@
 
   
   export const gridItems = [
-    
     {
-      id: 2,
-      title: "My design approach focuses on crafting visually stunning and user-centric interfaces that enhance usability and engagement.",
+      id: 1,
+      title: "Software Engineer at Atrina Technologies, Mumbai — building fintech, peer-to-peer lending, and e-commerce platforms with React.js, Next.js, TypeScript, Nest.js and Golang.",
       description: "",
       imgClassName: "",
       titleClassName: "justify-start",
-      img: "/b4.svg",
+      img: "",
       spareImg: "",
     },
     {
-      id: 1,
-      title: "I prioritize client collaboration, fostering open communication ",
+      id: 2,
+      title: "BE Computer Engineering · SIES Graduate School of Technology, University of Mumbai — CGPA 9.4 / 10 · Class of 2024.",
       description: "",
-      imgClassName: "w-full h-full",
-      titleClassName: "justify-end",
-      img: "/b1.svg",
+      imgClassName: "",
+      titleClassName: "justify-start",
+      img: "",
       spareImg: "",
     },
     {
       id: 5,
       title: "",
       description: "",
-      
       imgClassName: "",
       titleClassName: "justify-center",
       img: "/mee.jpg",
@@ -32,23 +30,22 @@
     },
     {
       id: 4,
-      title: "I thrive in collaborative environments and enjoy tackling complex challenges. My goal is to craft innovative solutions that meet both user needs and business objectives. Let's work together to bring your ideas to life! Outside of work, I enjoy reading, cooking, dancing, and playing badminton. I believe that a well-rounded life fuels creativity and innovation. Let's work together to bring your ideas to life!",
+      title: "I love building products that are fast, accessible, and delightful to use. I've led deliveries across 5+ product releases in Agile teams, won Top 5 at Google & LinkedIn's Hack4Change 2023, and was recognised as Employee of the Month at Atrina Technologies. Outside of code, you'll find me reading, cooking, dancing, or on the badminton court.",
       description: "",
-      imgClassName: "w-full h-full",
+      imgClassName: "",
       titleClassName: "justify-end",
-      img: "/b1.svg",
+      img: "",
       spareImg: "",
     },
     {
       id: 3,
-      title: `Want to start a project together? Click on 📞 to know more.`,
+      title: "Want to start a project together? Click on 📞 to know more.",
       description: "",
-      imgClassName: "w-full h-full",
+      imgClassName: "",
       titleClassName: "justify-end",
-      img: "/b1.svg",
+      img: "",
       spareImg: "",
     },
-    
   ];
   
   export const projects = [
@@ -78,32 +75,32 @@
     },
     {
       id: 4,
-      title: "My Portfolio Website 2024",
+      title: "My Portfolio Website",
       des: "Built with Next.js for seamless UI handling, Framer Motion for stunning animations, and styled with TailwindCSS, this portfolio showcases my skills in a distinctive and engaging way.",
       img: "/portfolioImg.png",
       link: "https://jutikapatil-portfolio.vercel.app/",
     },
-    {
-      id: 5,
-      title: "TechopediaX",
-      des: "As an IEEE member, I contributed in building website using HTML, CSS, Javascript, jQuery for the annual event of our college, which attracted over 500 participants. ",
-      img: "/ieeetechopedia.png",
-      link: "https://techopedia.ieeesiesgst.in/",
-    },
-    {
-      id: 6,
-      title: "Turing Cup 2022 ",
-      des: "Contributed in building Annual National level flagship competitive programming contest of Arena SIESGST",
-      img: "/turingcup.png",
-      link: "https://arena.siesgst.ac.in/turingcup",
-    },
-    {
-      id: 7,
-      title: "EdgeLedger- A Finance Blog website",
-      des: "This project, built solely with HTML and CSS, was my first foray into frontend development, which is why I proudly included it in my portfolio.",
-      img: "/edgeledger.png",
-      link: "https://jutikapatil16.github.io/Edgeledger/",
-    },
+    // {
+    //   id: 5,
+    //   title: "TechopediaX",
+    //   des: "As an IEEE member, I contributed in building website using HTML, CSS, Javascript, jQuery for the annual event of our college, which attracted over 500 participants. ",
+    //   img: "/ieeetechopedia.png",
+    //   link: "https://techopedia.ieeesiesgst.in/",
+    // },
+    // {
+    //   id: 6,
+    //   title: "Turing Cup 2022 ",
+    //   des: "Contributed in building Annual National level flagship competitive programming contest of Arena SIESGST",
+    //   img: "/turingcup.png",
+    //   link: "https://arena.siesgst.ac.in/turingcup",
+    // },
+    // {
+    //   id: 7,
+    //   title: "EdgeLedger- A Finance Blog website",
+    //   des: "This project, built solely with HTML and CSS, was my first foray into frontend development, which is why I proudly included it in my portfolio.",
+    //   img: "/edgeledger.png",
+    //   link: "https://jutikapatil16.github.io/Edgeledger/",
+    // },
     {
       id: 8,
       title: "CarbonKatha- Google Solution Challenge 2024 ",
@@ -111,13 +108,13 @@
       img: "/solChallengeImg.png",
       link: "https://www.figma.com/design/75EkpaBxG83RYmf2Xx0WvM/Solution-challenge?node-id=0-1&t=t7l2eJHKnJNyWyte-1",
     },
-    {
-      id: 9,
-      title: "Samruddhi- Hack4Change 2023 ",
-      des: "Samruddhi, created for Google's Hack4Change 2023, is a solution designed at helping farmers increase their profits using contract farming.",
-      img: "/samruddhi.png",
-      link: "https://www.figma.com/design/pDw4XR1hk3RHantWfSURi1/Samruddhi?node-id=355-201&t=N1WiJ4BNFxD1J2Wr-0",
-    },
+    // {
+    //   id: 9,
+    //   title: "Samruddhi- Hack4Change 2023 ",
+    //   des: "Samruddhi, created for Google's Hack4Change 2023, is a solution designed at helping farmers increase their profits using contract farming.",
+    //   img: "/samruddhi.png",
+    //   link: "https://www.figma.com/design/pDw4XR1hk3RHantWfSURi1/Samruddhi?node-id=355-201&t=N1WiJ4BNFxD1J2Wr-0",
+    // },
     {
       id: 10,
       title: "Waste2Wealth- SIH Hackathon ",
@@ -150,33 +147,46 @@
     { id: 17, name: "JAVASCRIPT", img: "/js.png", category: "DEVELOPMENT" },
     { id: 18, name: "GIT", img: "/git.png", category: "DEVELOPMENT" },
     { id: 19, name: "VSCODE", img: "/vscode.jpg", category: "DEVELOPMENT" },
+    { id: 20, name: "GOLANG", img: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/go/go-original.svg", category: "DEVELOPMENT" },
+    { id: 21, name: "NEST.JS", img: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/nestjs/nestjs-plain.svg", category: "DEVELOPMENT" },
+    { id: 22, name: "EXPRESS.JS", img: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/express/express-original.svg", category: "DEVELOPMENT" },
+    { id: 23, name: "REDUX", img: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/redux/redux-original.svg", category: "DEVELOPMENT" },
+    { id: 24, name: "POSTGRESQL", img: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/postgresql/postgresql-original.svg", category: "DATABASE" },
+    { id: 25, name: "DOCKER", img: "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/docker/docker-original.svg", category: "DEVELOPMENT" },
   ];
   
   export const workExperience = [
     {
       id: 1,
+      title: "Software Engineer",
+      place: "Atrina Technologies · Oct 2024 – Present",
+      desc: "Built end-to-end website for a peer-to-peer lending platform. Engineered and maintained a peer-to-peer lending platform with borrower/lender onboarding and dashboard flows, OTP-based authentication, and responsive UI reducing onboarding drop-off by 25%. Built multiple reusable React.js and Next.js components with TypeScript and Tailwind CSS, cutting feature development time by 30% across 3 concurrent product lines. Led fintech and financial advisory web application development, delivering scalable UI modules, REST API integrations, and performance optimizations that improved page load speed by 40%. Contributed to an e-commerce platform and admin dashboard, streamlining product and content management workflows and reducing manual admin effort by 35%. Drove backend migration from legacy PHP/WordPress systems to modern Golang and Nest.js services, improving API response times by 30% and overall system scalability. Integrated CRM systems and analytics platforms, enabling data-driven product decisions across multiple business verticals. Developed dynamic UI features including search systems, charts, accordions, and responsive modules for financial and business platforms serving 5,000+ daily active users.",
+      className: "md:col-span-2",
+      thumbnail: "/exp4.svg",
+    },
+    {
+      id: 2,
       title: "Software Engineer Intern",
-      place:"Samarth Security Solutions Ltd.",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity. Additionally, used Appscript to make manual work into an automated system.",
+      place: "Samarth Security Solutions Ltd.",
+      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity. Additionally, used Appscript to automate previously manual workflows.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
-      id: 2,
-      title: "Software Development Intern ",
-      place:"Monastic Hill Studios",
-      desc: "Created a full stack application with Next.js, Node.js, and MongoDB, leveraging technologies such as Tailwind CSS, Redux, and REST API, deploying on the Google Cloud Platform.Utilized Next.js for creating robust and responsive user interfaces, Node.js for efficient backend functionalities, and MongoDB for effective data management, to deliver a comprehensive and visually appealing full stack application.",
-      className: "md:col-span-2", // change to md:col-span-2
+      id: 3,
+      title: "Software Development Intern",
+      place: "Monastic Hills Studio · Mar 2023 – May 2023",
+      desc: "Built a full-stack application using Next.js, Node.js, MongoDB, Tailwind CSS, and REST APIs, deployed on Google Cloud Platform within a 3-month cycle. Delivered dynamic, responsive UIs and efficient backend APIs, improving application load performance by 20%.",
+      className: "md:col-span-2",
       thumbnail: "/exp2.svg",
     },
     {
-      id: 3,
+      id: 4,
       title: "Web Development Intern",
-      place:"Neurals.ai (Now, VideoDubber.ai)",
-      desc: "Engineered intuitive and user-friendly frontend interfaces using React, Tailwind, CSS and an improved user experience. Contributed to the development of Neurals.ai's official website, showcasing expertise in creating engaging user interfaces and efficient backend functionalities.",
-      className: "md:col-span-2", // change to md:col-span-2
+      place: "Neurals.ai (Now, VideoDubber.ai)",
+      desc: "Engineered intuitive frontend interfaces using React, Tailwind, and CSS, improving user experience. Contributed to the development of Neurals.ai's official website.",
+      className: "md:col-span-2",
       thumbnail: "/exp3.svg",
     },
-    
   ];
   

@@ -10,16 +10,19 @@ const RecentProjects = () => {
   return (
     <div className='pt-20' id='projects'>
     
-    <h1 className='font-bold text-3xl text-center'>Some of my <span className='text-purple underline underline-offset-8'> recent projects</span></h1>
+    <h1 className='font-bold text-3xl text-center'>Things I&apos;ve <span className='text-purple underline underline-offset-8'>Built &amp; Designed</span></h1>
 
-   
+    <p className='text-center text-neutral-400 text-sm mt-4 max-w-xl mx-auto leading-relaxed'>
+      A selection of full-stack applications. I&apos;ve also included Figma wireframes to showcase my product thinking capabilities.
+    </p>
+
     <div className='flex justify-center items-center flex-wrap lg:flex-wrap py-20 gap-4'>
 
     {projects.map((project) => (
         
 
      
-    <div key={project.id} className='overflow-hidden sm:w-96 w-[80vw] h-[70vh] lg:h-[80vh] p-4 px-4 m-2'>
+    <div key={project.id} className='overflow-hidden sm:w-96 w-[80vw] h-[70vh] md:h-[60vh] p-4 px-4 m-2'>
    <PinContainer title={project.title} href={project.link}>
    <Link href={project.link} className='mx-2 ' >
    <div className="flex items-center justify-center sm:w-96 w-[76vw] overflow-hidden shadow shadow-slate-400 lg:rounded-3xl  ">
