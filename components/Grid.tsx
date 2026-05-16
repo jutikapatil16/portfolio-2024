@@ -47,16 +47,16 @@ const Grid = () => {
           </div>
 
           <p className="text-neutral-300 text-sm leading-relaxed">
-            I'm a full-stack developer with <span className="text-white font-medium">1.5+ years of experience</span> building
+            I&apos;m a full-stack developer with <span className="text-white font-medium">1.5+ years of experience</span> building
             scalable <span className="text-purple font-medium">fintech, peer-to-peer lending</span>, and{" "}
             <span className="text-purple font-medium">e-commerce</span> web applications. I specialise in React.js,
             Next.js, TypeScript, Nest.js and Golang — writing clean, performant code and shipping products that people actually
-            enjoy using. I've worked across full product lifecycles: from UI components and REST APIs to backend
+            enjoy using. I&apos;ve worked across full product lifecycles: from UI components and REST APIs to backend
             migrations and SEO optimisation.
           </p>
 
           <p className="text-neutral-400 text-sm leading-relaxed">
-            Outside of work you'll find me on the badminton court, in the kitchen experimenting with recipes, or with a
+            Outside of work you&apos;ll find me on the badminton court, in the kitchen experimenting with recipes, or with a
             good book. I believe a well-rounded life fuels better engineering.
           </p>
 
